@@ -14,6 +14,8 @@ Feel free to adjust any specific details or wording as you see fit.
 This repository contains a Python script that generates a **Flappy Bird**–style game **embedded in a PDF file**. Once generated, the PDF can be opened in **Adobe Acrobat** (desktop) to play the game by clicking on **Start** and **FLAP** buttons.
 
 ## How It Works
+![image](https://github.com/user-attachments/assets/06a606ed-2ac3-4b89-8432-11076518991d)
+
 
 1. The Python script creates a **grid of invisible button widgets** for the background.  
 2. It embeds **Acrobat JavaScript** into the PDF that controls:  
